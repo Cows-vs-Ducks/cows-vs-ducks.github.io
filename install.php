@@ -29,7 +29,7 @@ if (!isset($_GET["aktion"])) {
  echo '<p><a href="install.php?aktion=install">Installation starten &#9658;</a></p>';
 }
 define('INSTALL', 'IB4WIgWnlqeFIDtEl1h');
-include "kommentar.php";
+include "kommentar.html";
 ?>
 
 </body>
